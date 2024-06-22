@@ -6,8 +6,8 @@
 ### Бизнес-Информатика 
 
 - Платно (409 000)
-  <https://bmstu.ru/bachelor/majors/biznes-informatika-380305?ysclid=lxqby19fw0730728594>
-  Учебный план
+  <https://bmstu.ru/bachelor/majors/biznes-informatika-380305?ysclid=lxqby19fw0730728594>\
+  Учебный план\
   <https://disk.yandex.ru/d/moWAx0NaaEbUaA/Москва/Бакалавриат%2C%20специалитет/38.03.05%20Бизнес-информатика/ИБМ6%20Бизнес-информатика>
   
 ## Губкина+
@@ -43,7 +43,12 @@
 
 ### Инноватика
 
-- Бюджет
+- Бюджет\
+  <https://bakalavriat.fa.ru/fakultet-vysshaya-shkola-upravleniya-61/upravlenie-tsifrovymi-innovatsiyami/?ysclid=lxqclgmwx7954348469>\
+  Мне показались унылыми такие навыки как:\
+  - Создавать цифровой продукт на No-code платформах.\
+  - Проектировать пользовательский опыт (UX/UI) и пользовательский интерфейс\
+  В учебном плане есть Химия
 
 ## МИСИС?
 
