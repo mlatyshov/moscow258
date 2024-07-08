@@ -1,6 +1,16 @@
 # Москва 258
 
 
+## Фин.Университет+
+
+#### Инноватика
+
+- Бюджет\
+  <https://bakalavriat.fa.ru/fakultet-vysshaya-shkola-upravleniya-61/upravlenie-tsifrovymi-innovatsiyami/?ysclid=lxqclgmwx7954348469>\
+Средний балл (ЕГЭ) 85,13\
+Программа направлена на подготовку специалистов по управлению digital-продуктами, менеджеров IT-проектов, технологических предпринимателей. \
+
+
 ## Баумана+
 
 ### Бизнес-Информатика 
@@ -19,7 +29,7 @@
     27.03.05 Инноватика	ИБМ4	250	252.87
   #### ИБМ5 Финансы
     27.03.05 Инноватика	ИБМ5	249	252.15	
-  #### ИБМ6 Бизнес-информатика
+  #### ИБМ6 Бизнес-информатика <[http://ibm6.bmstu.ru/](http://ibm6.bmstu.ru/in>
     27.03.05 Инноватика	ИБМ6	259	265.33 подать заявление
   #### ИБМ7 Инновационное предпринимательство
     27.03.05 Инноватика	ИБМ7	254	259.79	подать заявление
@@ -57,15 +67,6 @@
 
 - Бюджет
   <https://www.рэу.рф/structure/hs/vyisshaya-shkola-kibertehnologiy-matematiki-i-statistiki/educationalprograms/prikladnaya-informatika-v-ekonomike>
-
-## Фин.Университет+
-
-### Инноватика
-
-- Бюджет\
-  <https://bakalavriat.fa.ru/fakultet-vysshaya-shkola-upravleniya-61/upravlenie-tsifrovymi-innovatsiyami/?ysclid=lxqclgmwx7954348469>\
-Средний балл (ЕГЭ) 85,13
-Программа направлена на подготовку специалистов по управлению digital-продуктами, менеджеров IT-проектов, технологических предпринимателей. 
 
 ## МИСИС?
 Нет военной кафедры
